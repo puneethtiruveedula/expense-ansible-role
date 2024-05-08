@@ -8,7 +8,7 @@ keyed_groups:
 
 
 filters:
-  tag:Name: "backend"
+  tag:Name: "backend*"
 
 
 compose:
