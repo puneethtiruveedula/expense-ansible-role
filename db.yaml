@@ -1,5 +1,7 @@
 - name: configure db server
   hosts: db
+  vars_files:
+  - credentails.yaml
   become: yes
   roles:
   - db
