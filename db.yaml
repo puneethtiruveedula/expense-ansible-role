@@ -1,7 +1,5 @@
 - name: configure DB server
   hosts: db
-  vars_files:
-  - credetials.yaml
   become: yes
   roles:
   - db
