@@ -1,6 +1,6 @@
 login_user: root
-login_host: 172.31.16.241
+login_host: db.puneeth.cloud
 login_password: ExpenseApp@1
-DB_HOST: 172.31.16.241
+DB_HOST: db.puneeth.cloud
 app_location: /app
 component: backend
